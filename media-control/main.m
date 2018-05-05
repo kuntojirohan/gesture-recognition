@@ -1,12 +1,6 @@
 %***********************************************************************
 % Program to control media player using hand gesture
 %***********************************************************************
-%COPYRIGHT(C)SkillRex Technology
-%Date:....................8th Feb. 2016
-%Author:..................SkillRex Technology R&D Team
-%Organization:............SkillRex Technology
-%Compiler/Interpreter:....MatLab-7.10.0.499(R2010a)32-bit
-%***********************************************************************
 
 clc                         % clear the command prompt
 close all
@@ -37,7 +31,7 @@ close all;
 %===================Opening media player==============
 
 m=figure;
-% h = actxcontrol('progid') creates an ActiveX® control in a figure window.
+% h = actxcontrol('progid') creates an ActiveXÂ® control in a figure window.
 % The programmatic identifier (progid) for the control determines the type of control created.
 % (See the documentation provided by the control vendor to get this string.)
 % The returned object, h, represents the default interface for the control.
