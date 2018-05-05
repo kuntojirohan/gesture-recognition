@@ -1,12 +1,6 @@
 %***********************************************************************************
 % Program to control Mouse Pointer & Clicks using hand Gesture
 %************************************************************************************
-%COPYRIGHT(C)SkillRex Technology
-%Date:....................8th Feb. 2016
-%Author:..................SkillRex Technology R&D Team
-%Organization:............SkillRex Technology
-%Compiler/Interpreter:....MatLab-7.10.0.499(R2010a)32-bit
-%************************************************************************************
 
 clc                         % clear the command prompt
 close all
